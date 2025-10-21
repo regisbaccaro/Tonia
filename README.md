@@ -1,4 +1,4 @@
-# Ω-ALGO-DE-MONIA (Lite Edition)
+# Ω-ALGO-DE-MONIA (Readme Lite Edition)
 
 ### Unified Framework for Cognitive–Physical Intelligence  
 **by Alain Valette-Clary (Concept Creator, TONIA & MONIA – Ominus Group)**  
